@@ -14,6 +14,10 @@ pip install pipenv
 
 ### Installing
 
+* Specify which version of Python virtualenv should use
+```
+pipenv --python=/Path/To/python3
+```
 
 * Install dependencies
 ```
