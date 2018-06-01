@@ -31,3 +31,5 @@ pipenv shell
 * https://docs.djangoproject.com/en/2.0/intro/tutorial01/
 
 * https://github.com/pypa/pipenv
+
+* http://www.django-rest-framework.org/tutorial/quickstart/
